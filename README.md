@@ -1,8 +1,8 @@
 # Top-10-Programming-Languages
 
-Data visualization of the top 10 programming languages
+Data visualization of the top 10 programming languages in 2021.
 
-A chart of the top 10 programming languages in 2021. The ranking of the programming languages was taken from the TIOBE index website.
+A chart of the top 10 programming languages. The ranking of the programming languages was taken from the TIOBE index website.
 
 Here is the chart:
 
